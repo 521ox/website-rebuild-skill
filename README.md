@@ -297,6 +297,7 @@ README.en.md               # 英文版 README
 
 ## 友情链接
 
+- [Termark](https://www.termark.app/?affiliateCode=7ZVEGY3IZA) —— 简洁好用的全平台 SSH / SFTP 客户端。我自己的主力 SSH 工具,用下来已经完全替代了 Termius 和 iShell pro:该有的都有,不该有的都没有,我要用的全都有!内置的 tmux 会话管理和 Docker 容器管理是我日常用得最多的两个功能,顺手到不想回去。
 - [linux.do](https://linux.do/u/80yan9/)
 - [v2ex](https://www.v2ex.com/member/Boyang)
 - [NodeSeek](https://www.nodeseek.com/space/69434#/)
